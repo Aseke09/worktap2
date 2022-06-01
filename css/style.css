@@ -76,6 +76,7 @@ a{
     display: flex;
     margin-top: 64px;
     align-items: center;
+    justify-content: space-between;
 }
 .services__leftpart{
     width: 593px;
@@ -135,6 +136,7 @@ a{
     border: 1px solid #F2F0FE;
     border-radius: 50px;
     height: 37px;
+    line-height: 37px;
     background: none;
     margin-right: 20px;
     margin-bottom: 20px;
